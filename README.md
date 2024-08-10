@@ -26,8 +26,8 @@ Pada portofolio ini, sebagai tambahan kreativitas, beberapa dari proyek dan penc
 
 # Kesulitan yang dihadapi
 
-Keterbatasan ide untuk tampilan website
-Waktu pengerjaan yang terbatas karena kesibukan
+1. Keterbatasan ide untuk tampilan website
+2. Waktu pengerjaan yang terbatas karena kesibukan
 
 # Identitas
 
